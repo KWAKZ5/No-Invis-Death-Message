@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "noinvisdeathmessage",
+  "version": "${version}",
+  "name": "No Invis Death Message",
+  "description": "Removes the name of the killer if invisible. It also removes invisibility from users who other players damage.",
+  "authors": [
+          "KWAKZ"
+  ],
+  "contact": {
+    "repo": "https://github.com/KWAKZ5/No-Invis-Death-Message"
+  },
+  "license": "Creative Commons Zero v1.0 Universal",
+  "environment": "server",
+  "entrypoints": {
+    "main": [
+      "com.kwakz.noinvisdeathmessage.main"
+    ]
+  },
+  "mixins": [
+    "NoInvisDeathMessage.mixins.json"
+  ],
+  "depends": {
+    "minecraft": ">=1.20",
+    "fabricloader": "*",
+    "java": ">=17"
+  }
+}

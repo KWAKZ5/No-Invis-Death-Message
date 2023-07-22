@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.kwakz.noinvisdeathmessage.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "DeathMessage",
+    "RemoveOnDamage"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
