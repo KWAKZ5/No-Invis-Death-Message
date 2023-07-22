@@ -1,4 +1,4 @@
-# No Invis Death Message
+# No Invis Death Message (FABRIC)
 
 [>DOWNLOAD<](https://github.com/KWAKZ5/No-Invis-Death-Message/releases)
 
