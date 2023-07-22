@@ -1,4 +1,7 @@
 # No Invis Death Message
+
+>[DOWNLOAD](https://github.com/KWAKZ5/No-Invis-Death-Message/releases)<
+
 Removes the name of the killer if invisible. It also removes invisibility from users who other players damage.
 
 This is my first "real" fabric mod. It took me about 5 days to make but I got there in the end.
