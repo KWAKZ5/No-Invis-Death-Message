@@ -1,6 +1,6 @@
 # No Invis Death Message
 
->[DOWNLOAD](https://github.com/KWAKZ5/No-Invis-Death-Message/releases)<
+[>DOWNLOAD<](https://github.com/KWAKZ5/No-Invis-Death-Message/releases)
 
 Removes the name of the killer if invisible. It also removes invisibility from users who other players damage.
 
